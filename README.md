@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 * 🔭 I have a passion for creating software that makes the life of others (and myself) easier!
 * 🌱 I'm currently learning about software architecture designs for embedded devices.
 * 😄 Pronouns: He/Him
-* 🦀 A young (but passionate) Rustacean! Looking to introduce Rust where possible!
+* 🦀 An aspiring (but passionate) Rustacean! Looking to learn & introduce Rust where possible!
 
 ## ✉️ Find me on:
 
@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px; background-color:white">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="Bash" height="40" style="vertical-align:top; margin:4px; background-color:white">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" height="40" style="vertical-align:top; margin:4px; background-color:white">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="C" height="40" style="vertical-align:top; margin:4px; background-color:white">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px; background-color:white">
 </p>
 
