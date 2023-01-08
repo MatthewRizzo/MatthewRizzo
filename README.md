@@ -45,4 +45,4 @@ Here are some ideas to get you started:
 # My Statistics :)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MatthewRizzo&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatthewRizzo&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatthewRizzo&theme=tokyonight&hide=HTML)
