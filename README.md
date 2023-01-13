@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 * 🧑‍🔬 I'm an Embedded Linux Engineer
-* 👨🏻‍🎓📜 I have a BS in Computer Engineering and MS in CE with a concentration in Computer Networks and Security.
+* 📜 I have a BS in Computer Engineering and MS in CE with a concentration in Computer Networks and Security.
 * 💻 I have experience with using & writting software for personal, open-source, and corporate projects.
 * 🔭 I have a passion for creating software that makes the life of others (and myself) easier!
 * 🌱 I'm currently learning about software architecture designs for embedded devices.
