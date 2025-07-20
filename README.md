@@ -49,12 +49,3 @@ Here are some ideas to get you started:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MatthewRizzo&show_icons=true&theme=tokyonight&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatthewRizzo&theme=tokyonight&hide=HTML&count_private=true)
-
-### Professional Project Contributions & Statistics
-
-<p align="center">
-<a href="https://github.com/Matt-Rizzo-Bose">https://github.com/Matt-Rizzo-Bose</a>
-</p>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Matt-Rizzo-Bose&show_icons=true&theme=tokyonight&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matt-Rizzo-Bose&theme=tokyonight&hide=HTML&count_private=true)
